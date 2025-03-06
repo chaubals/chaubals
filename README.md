@@ -6,16 +6,19 @@
     </p>
 </head>
 <body>
-    <h1 align="center">👋 Hi, I'm Siddhesh Chaubal!</h1>
+    <h1 align="center">👋 Hello, I'm Siddhesh Chaubal!</h1>
+      <p align="center">
+        <a href="https://git.io/typing-svg">
+            <img src="https://readme-typing-svg.demolab.com/?lines=Software+Developer;JavaScript+React+TypeScript+AWS+Git" alt="Typing SVG">
+        </a>
+    </p>
+  <div>
+    <img src="./terminal(1).gif" alt="About Me Terminal GIF"/>
+  </div>
     <h2>🚀 My Mission </h2>
     <p>
         Passionate about building scalable and efficient web applications, I strive to create impactful digital experiences. 
         With expertise in <strong>full-stack development</strong>, cloud computing, and fintech solutions, I am committed to continuous learning and innovation.
-    </p>
-    <p align="center">
-        <a href="https://git.io/typing-svg">
-            <img src="https://readme-typing-svg.demolab.com/?lines=Software+Developer;JavaScript+React+TypeScript+AWS+Git" alt="Typing SVG">
-        </a>
     </p>
     <p align="center">
         <a href="https://skillicons.dev">
