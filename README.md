@@ -27,6 +27,13 @@
         </a>
     </p>
     </div>
+    <h2>📌 Featured Projects</h2>
+    <ul>
+        <li><strong>Memora:</strong> A flashcards web app built with React, AWS, and Node.js.</li>
+        <li><strong>CodeQuiz:</strong> A quiz platform design for tech enthusiasts to assess their knowledge in tech. Built with React, Git, and AWS</li>
+        <li><strong>GoodWeather:</strong> Check live weather around the globe. Built with: React, OpenWeather API, and Netlify CI/CD</li>
+        <li><strong>WorldClock:</strong> See live time in any time zone around the world, because "It's gotta be 5 SOMEWHERE, right?"</li>
+    </ul>
     <h2>🔗 Connect with Me</h2>
 <div>
     <a href="https://www.linkedin.com/in/siddhesh-c-a614a2118/">
@@ -39,17 +46,6 @@
         <img src="https://github.com/user-attachments/assets/33da1818-a750-4e4b-a09a-9c8b1c4e9338" alt="Medium" width="35" height="35"/>
     </a> -->
 </div>
-    <h2>📌 Featured Projects</h2>
-    <ul>
-        <li><strong>Memora:</strong> A flashcards web app built with React, AWS, and Node.js.</li>
-        <li><strong>CodeQuiz:</strong> A quiz platform design for tech enthusiasts to assess their knowledge in tech. Built with React, Git, and AWS</li>
-        <li><strong>GoodWeather:</strong> Check live weather around the globe. Built with: React, OpenWeather API, and Netlify CI/CD</li>
-        <li><strong>WorldClock:</strong> See live time in any time zone around the world, because "It's gotta be 5 SOMEWHERE, right?"</li>
-    </ul>
-    <h2>📫 Get in Touch</h2>
-    <p>
-        Feel free to reach out via LinkedIn or explore my projects on GitHub. Let's collaborate and build something amazing! 🚀
-    </p>
 
 <h2>📂 For Employers:</h2>
 <p>Get my resume here:</p>
