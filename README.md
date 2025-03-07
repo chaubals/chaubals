@@ -13,18 +13,20 @@
         </a>
     </p>
   <div>
-    <img src="./terminal(1).gif" alt="About Me Terminal GIF"/>
+    <img src="./terminal.gif" alt="About Me Terminal GIF"/>
   </div>
-    <h2>🚀 My Mission </h2>
+    <h2>🚀 Summary </h2>
     <p>
-        Passionate about building scalable and efficient web applications, I strive to create impactful digital experiences. 
-        With expertise in <strong>full-stack development</strong>, cloud computing, and fintech solutions, I am committed to continuous learning and innovation.
+      Full stack developer with frontend focus, specializing in JavaScript and keen eye for visual design. Experienced in React.js (v18), Python, and AWS, with track record of delivering high-quality products. Understanding of finance through CFA Level I and passion for financial technology. Dedicated to helping businesses grow by building secure, cloud-based web applications within the financial services landscape  
     </p>
+  <div>
+    <h2>Skills</h2>
     <p align="center">
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=js,html,css,ts,react,angular,ts,aws,bash,cs,dotnet,git,github,nodejs,vite" alt="My Skills">
+            <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,aws,bash,cs,dotnet,git,vite" alt="My Skills">
         </a>
     </p>
+    </div>
     <h2>🔗 Connect with Me</h2>
 <div>
     <a href="https://www.linkedin.com/in/siddhesh-c-a614a2118/">
@@ -37,17 +39,12 @@
         <img src="https://github.com/user-attachments/assets/33da1818-a750-4e4b-a09a-9c8b1c4e9338" alt="Medium" width="35" height="35"/>
     </a> -->
 </div>
-    <h2>💡 Skills & Interests</h2>
-    <ul>
-        <li>Full-Stack Web Development (React.js, JavaScript, C# .NET, Node.js, AWS)</li>
-        <li>Cloud Computing & DevOps</li>
-        <li>FinTech & Financial Markets (CFA Level I Cleared)</li>
-        <li>Software Engineering & Cybersecurity</li>
-    </ul>
     <h2>📌 Featured Projects</h2>
     <ul>
         <li><strong>Memora:</strong> A flashcards web app built with React, AWS, and Node.js.</li>
-        <li><strong>More projects coming soon...</strong></li>
+        <li><strong>CodeQuiz:</strong> A quiz platform design for tech enthusiasts to assess their knowledge in tech. Built with React, Git, and AWS</li>
+        <li><strong>GoodWeather:</strong> Check live weather around the globe. Built with: React, OpenWeather API, and Netlify CI/CD</li>
+        <li><strong>WorldClock:</strong> See live time in any time zone around the world, because "It's gotta be 5 SOMEWHERE, right?"</li>
     </ul>
     <h2>📫 Get in Touch</h2>
     <p>
