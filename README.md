@@ -20,7 +20,7 @@
       Full stack developer with frontend focus, specializing in JavaScript and keen eye for visual design. Experienced in React.js (v18), Python, and AWS, with track record of delivering high-quality products. Understanding of finance through CFA Level I and passion for financial technology. Dedicated to helping businesses grow by building secure, cloud-based web applications within the financial services landscape  
     </p>
   <div>
-    <h2>Skills</h2>
+    <h2>🛠️ Skills</h2>
     <p align="center">
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,aws,bash,cs,dotnet,git,vite" alt="My Skills">
