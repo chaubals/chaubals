@@ -6,10 +6,10 @@
     </p>
 </head>
 <body>
-    <h1 align="center">👋 Hello, I'm Siddhesh Chaubal!</h1>
+    <h1 align="center">🙏🏻Namaste! I'm Siddhesh Chaubal</h1>
       <p align="center">
         <a href="https://git.io/typing-svg">
-            <img src="https://readme-typing-svg.demolab.com/?lines=Software+Developer;JavaScript+React+TypeScript+AWS+Git" alt="Typing SVG">
+            <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer;JavaScript+.NET+React+TypeScript+Angular+AWS+Git" alt="Typing SVG">
         </a>
     </p>
 <!--   <div>
@@ -42,16 +42,16 @@
     <a href="https://dev.to/siddhesh_chaubal_a7177ed0">
         <img src="https://github.com/user-attachments/assets/172bc424-569a-4522-a787-97f4cd5a685d" alt="Dev.to" width="50" height="50"/>
     </a>
-    <!-- <a href="https://medium.com/@daria-stanilevici">
+    <a href="https://medium.com/@siddhesh.chaubal2024">
         <img src="https://github.com/user-attachments/assets/33da1818-a750-4e4b-a09a-9c8b1c4e9338" alt="Medium" width="35" height="35"/>
-    </a> -->
+    </a>
 </div>
 
 <h2>📂 For Employers:</h2>
 <p>Get my resume here:</p>
-<a href="https://drive.google.com/file/d/1HchuFhm3uRoHTMos11clGXZ4L983XK-0/view?usp=sharing" download style="display: flex; align-items: center; gap: 10px; text-decoration: none; font-size: 18px; font-weight: bold; color: #0073e6;">
+<a href="https://drive.google.com/file/d/10squ6MY5hrYgyXbsgSu2f9wTPp3fb-RC/view?usp=sharing" download style="display: flex; align-items: center; gap: 10px; text-decoration: none; font-size: 18px; font-weight: bold; color: #0073e6;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="Resume PDF" width="40" height="40"/>
-    Download My Resume
+    Get My Resume
 </a>
     <p align="center">
         <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer">
