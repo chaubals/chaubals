@@ -15,12 +15,12 @@
 <!--   <div>
     <img src="./terminal.gif" alt="About Me Terminal GIF"/>
   </div> -->
-    <h2>🚀 Summary </h2>
+    <h3>🚀 Summary </h3>
     <p>
       Full stack developer with frontend focus, specializing in JavaScript and keen eye for visual design. Experienced in React.js (v18), Python, and AWS, with track record of delivering high-quality products. Understanding of finance through CFA Level I and passion for financial technology. Dedicated to helping businesses grow by building secure, cloud-based web applications within the financial services landscape  
     </p>
   <div>
-    <h2>🛠️ Skills</h2>
+    <h3>🛠️ Skills</h3>
     <p align="center">
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,aws,bash,cs,dotnet,git,vite" alt="My Skills">
@@ -34,7 +34,7 @@
         <li><strong>GoodWeather:</strong> Check live weather around the globe. Built with: React, OpenWeather API, and Netlify CI/CD</li>
         <li><strong>WorldClock:</strong> See live time in any time zone around the world, because "It's gotta be 5 SOMEWHERE, right?"</li>
     </ul>
-    <h2>🔗 Connect with Me</h2>
+    <h3>🔗 Connect with Me</h3>
 <div>
     <a href="https://www.linkedin.com/in/siddhesh-c-a614a2118/">
         <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="50" height="50"/>
@@ -47,8 +47,7 @@
     </a>
 </div>
 
-<h2>📂 For Employers:</h2>
-<p>Get my resume here:</p>
+<h3>📂 Interested in hiring me?</h3>
 <a href="https://drive.google.com/file/d/10squ6MY5hrYgyXbsgSu2f9wTPp3fb-RC/view?usp=sharing" download style="display: flex; align-items: center; gap: 10px; text-decoration: none; font-size: 18px; font-weight: bold; color: #0073e6;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="Resume PDF" width="40" height="40"/>
     Get My Resume
