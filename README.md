@@ -1,58 +1,93 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <p align="center">
-        <img width="100%" src="https://camo.githubusercontent.com/e09012c164942eb846524af8cbea063e07297c1d0f9c5846dd3f2da99ef08f60/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d443942454431266865696768743d3132302673656374696f6e3d686561646572" alt="header">
-    </p>
-</head>
-<body>
-    <h1 align="center">🙏🏻Namaste! I'm Siddhesh Chaubal</h1>
-      <p align="center">
-        <a href="https://git.io/typing-svg">
-            <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer;JavaScript+.NET+React+TypeScript+Angular+AWS+Git" alt="Typing SVG">
-        </a>
-    </p>
-<!--   <div>
-    <img src="./terminal.gif" alt="About Me Terminal GIF"/>
-  </div> -->
-    <h3>🚀 Summary </h3>
-    <p>
-      Full stack developer with frontend focus, specializing in JavaScript and keen eye for visual design. Experienced in React.js (v18), Python, and AWS, with track record of delivering high-quality products. Understanding of finance through CFA Level I and passion for financial technology. Dedicated to helping businesses grow by building secure, cloud-based web applications within the financial services landscape  
-    </p>
-  <div>
-    <h3>🛠️ Skills</h3>
-    <p align="center">
-        <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,aws,bash,cs,dotnet,git,vite" alt="My Skills">
-        </a>
-    </p>
-    </div>
-    <h2>📌 Featured Projects</h2>
-    <ul>
-        <li><strong>Memora:</strong> A flashcards web app built with React, AWS, and Node.js.</li>
-        <li><strong>CodeQuiz:</strong> A quiz platform design for tech enthusiasts to assess their knowledge in tech. Built with React, Git, and AWS</li>
-        <li><strong>GoodWeather:</strong> Check live weather around the globe. Built with: React, OpenWeather API, and Netlify CI/CD</li>
-        <li><strong>WorldClock:</strong> See live time in any time zone around the world, because "It's gotta be 5 SOMEWHERE, right?"</li>
-    </ul>
-    <h3>🔗 Connect with Me</h3>
-<div>
-    <a href="https://www.linkedin.com/in/siddhesh-c-a614a2118/">
-        <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="50" height="50"/>
-    </a>
-    <a href="https://dev.to/siddhesh_chaubal_a7177ed0">
-        <img src="https://github.com/user-attachments/assets/172bc424-569a-4522-a787-97f4cd5a685d" alt="Dev.to" width="50" height="50"/>
-    </a>
-    <a href="https://medium.com/@siddhesh.chaubal2024">
-        <img src="https://github.com/user-attachments/assets/33da1818-a750-4e4b-a09a-9c8b1c4e9338" alt="Medium" width="35" height="35"/>
-    </a>
-</div>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header">
+</p>
 
-<h3>📂 Interested in hiring me?</h3>
-<a href="https://drive.google.com/file/d/10squ6MY5hrYgyXbsgSu2f9wTPp3fb-RC/view?usp=sharing" download style="display: flex; align-items: center; gap: 10px; text-decoration: none; font-size: 18px; font-weight: bold; color: #0073e6;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="Resume PDF" width="40" height="40"/>
-    Get My Resume
-</a>
-    <p align="center">
-        <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer">
-    </p>
-</html>
+<h1 align="center">🙏🏻 Namaste! I'm Siddhesh Chaubal</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer;JavaScript+React+Angular;.NET+AWS+Python;Finance+Technology+Enthusiast&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=200" alt="Typing SVG">
+  </a>
+</p>
+
+## 🚀 About Me
+
+Full-stack developer with 3+ years of experience building secure, cloud-based web applications. Skilled in **JavaScript**, **React.js (v18)**, **Angular**, **.NET**, **Python**, and **AWS**, with a proven track record of delivering high-quality products.  
+Holding **CFA Level I certification**, I bring a strong understanding of finance combined with a passion for **financial technology (FinTech)**.  
+Driven to help businesses grow by creating innovative, scalable solutions at the intersection of software engineering and financial services.
+
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,aws,bash,cs,dotnet,git,vite,python,nodejs" alt="My Skills">
+  </a>
+</p>
+
+## 📌 Featured Projects
+
+### 🧠 [FundNest](https://github.com/chaubals/fund-nest)
+Mortgage planning application with real-time rates and loan calculations
+- **Tech Stack:** Angular 19, TypeScript, RxJS
+- **Features:** User auth, live mortgage rates, planning dashboard
+
+### 💭 [Memora](https://github.com/chaubals/memora)
+Flashcards web app for effective learning and memory retention
+- **Tech Stack:** React, AWS, Node.js
+- **Features:** Spaced repetition, cloud sync, progress tracking
+
+### 🧩 [CodeQuiz](https://github.com/chaubals/codequiz)
+Quiz platform for tech enthusiasts to assess their programming knowledge
+- **Tech Stack:** React, AWS, Git
+- **Features:** Multiple categories, score tracking, leaderboards
+
+### 🌤️ [GoodWeather](https://github.com/chaubals/goodweather)
+Real-time weather information for locations worldwide
+- **Tech Stack:** React, OpenWeather API, Netlify CI/CD
+- **Features:** Location search, 5-day forecast, responsive design
+
+### 🌍 [WorldClock](https://github.com/chaubals/world-clock-react)
+Global timezone display - *"It's gotta be 5 o'clock SOMEWHERE, right?"*
+- **Tech Stack:** React, Vite, JavaScript Date API
+- **Features:** Real-time updates, timezone selection, responsive UI
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/siddhesh-c-a614a2118/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
+  </a>
+  <a href="https://dev.to/siddhesh_chaubal_a7177ed0">
+    <img src="https://img.shields.io/badge/Dev.to-1F2225?style=for-the-badge&logo=dev.to&logoColor=0f0&labelColor=1F2225" alt="Dev.to" />
+  </a>
+  <a href="https://medium.com/@siddhesh.chaubal2024">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white&labelColor=000000" alt="Medium" />
+  </a>
+</p>
+
+## 📄 Resume
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/10squ6MY5hrYgyXbsgSu2f9wTPp3fb-RC/view?usp=sharing">
+    <img src="https://img.shields.io/badge/📄_Download_Resume-FF4B2B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=D72638" alt="Download Resume" />
+  </a>
+</p>
+
+
+## 💡 Interesting Facts
+
+- 🏦 **Finance Enthusiast** - CFA Level I candidate with passion for fintech
+- 🌱 **Always Learning** - Currently exploring advanced React patterns and cloud architecture
+- 🎯 **Goal Oriented** - Building solutions that make financial planning accessible to everyone
+- 🎯 **Launch & Learn** - Believe in starting with a minimal solution and building on top of it, rather than striving for perfection right at the beginning
+
+---
+
+<p align="center">
+  <i>⭐️ From [Siddhesh Chaubal](https://github.com/chaubals) - Let's build something amazing together!</i>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer">
+</p>
