@@ -12,9 +12,9 @@
             <img src="https://readme-typing-svg.demolab.com/?lines=Software+Developer;JavaScript+React+TypeScript+AWS+Git" alt="Typing SVG">
         </a>
     </p>
-  <div>
+<!--   <div>
     <img src="./terminal.gif" alt="About Me Terminal GIF"/>
-  </div>
+  </div> -->
     <h2>🚀 Summary </h2>
     <p>
       Full stack developer with frontend focus, specializing in JavaScript and keen eye for visual design. Experienced in React.js (v18), Python, and AWS, with track record of delivering high-quality products. Understanding of finance through CFA Level I and passion for financial technology. Dedicated to helping businesses grow by building secure, cloud-based web applications within the financial services landscape  
